@@ -1,1 +1,1 @@
-# React-Cards
+components and properties
